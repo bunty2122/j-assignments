@@ -1,1 +1,2 @@
 this is develope.txt file
+hello this is mani
